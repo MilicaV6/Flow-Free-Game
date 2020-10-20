@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.AbstractForm.resources
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.FirstLevelForm.resources
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.ThirdLevelForm.resources
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\bin\Debug\RG_Projekat_Milica_Vukovic.exe
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\bin\Debug\RG_Projekat_Milica_Vukovic.pdb
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.exe
+c:\users\user\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.pdb
+C:\Users\User\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\bin\Debug\RG_Projekat_Milica_Vukovic.exe.config
+C:\Users\User\documents\visual studio 2010\Projects\RG_Projekat_Milica_Vukovic\RG_Projekat_Milica_Vukovic\obj\x86\Debug\RG_Projekat_Milica_Vukovic.csprojResolveAssemblyReference.cache
